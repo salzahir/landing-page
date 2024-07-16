@@ -3,6 +3,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 12px;
+    color: white;
 
 }
 
@@ -15,8 +16,20 @@
 
 }
 
-.upper{
+.wait{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    width: 200px;
+}
+
+.second{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Upper{
     background-color: #1f2937;
-    
+
 }
 
